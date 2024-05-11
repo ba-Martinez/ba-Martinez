@@ -1,6 +1,6 @@
 # Hey, whats up? 👾
 
-> Meu nome é Brayan Martinez, tenho 23, nascido e criado em **Recife/Brazil** 🇧🇷
+> Meu nome é Brayan Martinez, tenho 24, nascido e criado em **Recife/Brazil** 🇧🇷
 >
 > Atualmente, cursando Ciência da Computação.
 
