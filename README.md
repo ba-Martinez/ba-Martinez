@@ -1,8 +1,7 @@
 # Hey, whats up? 👾
 
 > Meu nome é Brayan Martinez, tenho 25, nascido e criado em **Recife/Brazil** 🇧🇷
->
-> Atualmente trabalhando como NOC junto à VIVO e formado em Ciência da Computação pela UNIFBV.
+> Formado em Ciência da Computação pela UNIFBV Wyden
 
 ## Skills 🕹
 <div style="display: inline_block"></br>
